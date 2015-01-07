@@ -1,6 +1,6 @@
 {
   "name": "window-scroll",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Polyfill for window.scrollX and window.scrollY",
   "main": "index.js",
   "scripts": {
