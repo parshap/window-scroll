@@ -1,0 +1,26 @@
+{
+  "name": "window-scroll",
+  "version": "0.0.0",
+  "description": "Polyfill for window.scrollX and window.scrollY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:parshap/window-scroll.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrollX",
+    "scrollY",
+    "pageXOffset",
+    "pageYOffset"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/parshap/window-scroll/issues"
+  },
+  "homepage": "https://github.com/parshap/window-scroll"
+}
